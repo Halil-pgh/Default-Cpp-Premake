@@ -28,6 +28,7 @@ Yukarıdaki Terminal yerinden **New Terminal** e tıklayın.
 Açılan terminale **make** yazın. Workspace'de iki tane yeni dosya açılması lazım (*bin* ve *bin-int* dosyaları).
 Bin dosyasını açın bin'in hemen altındaki dosyanın adını launch.json'daki
 >"program": "${workspaceFolder}/bin/Debug-linux/Default/Default",
+
 Debug-linux yazan yere o dosyanın yazın.
 
 ## Projenin adını değiştirme
