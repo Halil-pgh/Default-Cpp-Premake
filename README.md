@@ -16,7 +16,7 @@ sudo apt install build-essential
 
 İhtiyacınız olan aletleri aldığınıza göre şimdi ana projeyi vscode'da
 açın. Ctrl + Shift + B yaparsanız premake'i çalıştıracaktır. Sonucunda
-bir tane projenin altında bir tane workspace de **Makefile** oluşturması
+bir tane projenin altında, bir tane workspace de **Makefile** oluşturması
 lazım. f5 tuşu ile oluşturduğu Makefile lar sonucu programı build edip
 çalıştıracaktır.
 
