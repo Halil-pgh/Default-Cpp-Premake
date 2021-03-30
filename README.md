@@ -26,7 +26,7 @@ Projenin adını değiştirmek istiyorsanız premake5.lua
 dosyasında ve launch.json daki iki şeyi değiştirmeniz
 gerekiyor. premake5.lua dosyasında Ctrl + H ile
 find and replace yapıp Default kelimesini bulup
-projenizin adıyla değiştirebilirsiniz. Launc.json
+projenizin adıyla değiştirebilirsiniz. launch.json
 dosyasında da aynı şeyi yaparsanız program
 çalışmaya hazır demek.
 
